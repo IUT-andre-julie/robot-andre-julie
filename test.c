@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 int main (void){
 /***************************************************************************************************/
 //Initialisation de l?oscillateur
@@ -22,6 +21,3 @@ while(1){
     //LED_ORANGE=!LED_ORANGE;
 } // fin main
 }
-=======
-
->>>>>>> parent of 6ad6363... Update test.c
